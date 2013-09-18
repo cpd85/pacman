@@ -1,0 +1,10 @@
+PacMan Python Implementation
+
+Graphics Package : Tkinter
+Ghost Algorithms:
+	-Inspired by http://gameinternals.com/post/2072558330/understanding-pac-man-ghost-behavior
+	-A* Pathfinding used for shortest distance
+
+Map Editor:
+	-Maps stored as .txt files, different values for different tiles
+	-Corners needed for adequate AI
