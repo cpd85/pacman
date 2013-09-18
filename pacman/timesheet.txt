@@ -1,0 +1,9 @@
+﻿I’ve spent about 12 hours trying to configure panda 3d and get models and a working test going. I spent about 7 hours over the weekend figuring out panda 3d and learning tutorials, and about another 5 getting textures to work on a board and putting a panda on the board, along with coding the board reader and doing the first deliverable.
+4/21/13 - 2 Unssuccesful Hours getting TKinter to load images
+4/23/13 - 6 hours of programming to get pacman to move around, and die
+4/26/13 - 4 hours on ASTAR
+4/27/13 - 8 hours on ASTAR
+4/28/13 - 6 hours fixing graphics
+4/29/13 - 8 hours developing ghost AI
+4/30/13 - 10 hours creating menus, packaging everything, fixing bugs
+5/1/13 - 4 hours finishing up and preparing deliverable

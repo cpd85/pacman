@@ -1,0 +1,18 @@
+0 - blank space
+1 - horizontal
+2 - top left corner
+3 - top right corner
+4  - T shape
+5 - vertical
+6 - bottom left corner
+7 - bottom right corner
+8 - bottom T shape
+9 - bottom nub
+10 - top nub
+11 - left nub
+12 - right nub
+13 - right facing T
+14 - left facing T
+15 - cross piece
+16 - single circle
+17 - gate

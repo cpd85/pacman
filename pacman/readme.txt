@@ -1,0 +1,1 @@
+This is a simple pacman playable game with python TKinter. It should be good to run on any computer that has installed python 2.7 and contains tkinter. You can just run the script from terminal.

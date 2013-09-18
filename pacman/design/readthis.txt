@@ -1,0 +1,3 @@
+My 15-112 Term Project is pacman. You can move around a board eating pellets and avoiding ghosts. You can eat super-pellets to try and eat the ghosts. After you have completed a small portion of a level, you have a choice to go through a portal to the next level. Y ou can go through and advance, but you will sacrifice many possible points by doing this. This program uses a 2d array as a board, and draws the tile numbers from preset images.
+Additionally, you can use a level editor which uses a user interface to modify a simple 2d array. A helpful UI keeps track of what you are placing and where you are placing it.
+Additionally, you could simply quit the menu (but what fun is that)
